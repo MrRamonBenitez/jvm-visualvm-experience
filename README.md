@@ -2,31 +2,31 @@
 кода составил **1.08 ГБ**, при максимальном размере зарезервированной
 JVM области памяти в **1.8 Гб**, размер MetaSpace составил 25.2 Мб.
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\Pause30secHeap.jpg)
+![](/Pause30secHeap.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\MetaspaceVertx.jpg)
+![](/MetaspaceVertx.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\ClassesVertx.jpg)
+![](/ClassesVertx.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\HeapVertx.jpg)
+![](/HeapVertx.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\MetaspaceNetty.jpg)
+![](/MetaspaceNetty.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\ClassesNetty.jpg)
+![](/ClassesNetty.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\HeapNetty.jpg)
+![](/HeapNetty.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\MetaspaceSpring.jpg)
+![](/MetaspaceSpring.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\ClassesSpring.jpg)
+![](/ClassesSpring.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\HeapSpring.jpg)
+![](/HeapSpring.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\HeapObject.jpg)
+![](/HeapObject.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\MetaspaceObject.jpg)
+![](/MetaspaceObject.jpg)
 
-![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\ClassesObject.jpg)
+![](/ClassesObject.jpg)
 
 
 
