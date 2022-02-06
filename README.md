@@ -1,3 +1,6 @@
-Домашнее задание для Netology.ru для курса Java Developer   
+По данным утилиты **VisualVM** размер **Heap** по итогам выполнения 
+кода составил **1.08 ГБ**, при максимальном размере в **1.8 Гб**.
 
-Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)
+![](C:\Users\nftkm\IdeaProjects\jvm-visualvm-experience\Pause30sec.jpg)
+
+
